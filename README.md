@@ -25,16 +25,15 @@ This guide was made for the Mount Royal University Game Design and Development C
 - [Sound](#sound)
   - [Intro to Audacity](#intro-to-audacity)
   - [Intro to FL Studio](#intro-to-fl-studio)
-  - [BFXR and SFXR](#bfxr-and-sfxr)\
+  - [BFXR and SFXR](#bfxr-and-sfxr)
   - [Extra Tools and Resources](#extra-tools-and-resources-1)
-- Game Engines
-  - Unity (C#)
-  - Godot ("python-ish", C#)
-  - Unreal Engine (C++)
-  - GameMaker Studio (GML)
-  - MonoGame (C#)
-  - PyGame (Python)
-  - PICO-8 (Lua)
+- [Game Engines](#game-engines)
+  - [Unity (C#)](#unity-c)
+  - [Godot ("python-ish", C#)](#godot-python-ish-c)
+  - [Unreal Engine (C++)](#unreal-engine-c)
+  - [GameMaker Studio (GML)](#gamemaker-studio-gml)
+  - [MonoGame (C#)](#monogame-c)
+  - [Extra Tools and Resources](#extra-tools-and-resources-2)
 
 ## Game Design
 
@@ -212,6 +211,9 @@ Here are some great resources for learning Aseprite:
 - [Sprite Animation](https://www.youtube.com/watch?v=iWvfaiiVuDI)<br/>
   A great video on how to animate sprites.
 
+- [StudioMiniBoss](https://blog.studiominiboss.com/pixelart)<br/>
+  A great blog on pixel art by the lead artist of Celeste. They have some great tutorials, and some great resources.
+
 ### Intro to Blender
 
 If you're going the 3D game route, this is the tool for you. Blender is a free, open source 3D modeling tool. It's used by professionals and hobbyists alike, and is a great tool to learn. It's a bit daunting at first, but there's plenty of resources out there to help you learn.
@@ -332,3 +334,225 @@ Once again, there are tons of tools out there that we haven't covered. Here are 
 
 - [FamiTracker](http://famitracker.com/)<br/>
   A great free tool for making chiptune music, although it's a bit more advanced.
+
+## Game Engines
+
+Tackling a game engine will be the biggest hurdle you'll face. It's a lot to take in, and can be very daunting. It's important to remember that you don't need to know everything about a game engine to use it. You just need to know enough to get started. Once you get started, you can learn more as you go. It's also important to remember that you don't need to use a game engine to make a game. You can make a game from scratch, but it's a lot of work. Game engines are great because they do a lot of the heavy lifting for you, and let you focus on making your game. There are tons of game engines out there, and each one has its own pros and cons. It's important to find the one that works best for you. Here are some of the most popular game engines out there:
+
+### Unity (C#)
+
+Unity is one of the most popular game engines out there. It's used by professionals and hobbyists alike, and is a great engine to learn. It's a great engine for 3D games, and has the capabilities to handle 2D games as well. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game. It's also free to use, and has a great community behind it. Our executive Lawrence is a Unity expert, and is always happy to help out.
+
+- [Unity](https://unity.com/)<br/>
+  The official website for Unity. You can download it here.
+
+| Pros                                       | Cons                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| Extensive platform support                 | Steeper learning curve for beginners                         |
+| Robust and powerful development tools      | Limited visual scripting options                             |
+| Large and active community                 | Performance issues with complex scenes and high-end graphics |
+| Asset Store with a wide range of resources | Lack of built-in support for certain advanced features       |
+| Cross-platform development capabilities    | Limited support for native mobile features                   |
+| Powerful 2D and 3D rendering capabilities  | Integration issues with certain third-party tools            |
+
+Here are some great resources for learning Unity:
+
+- [Unity Crash Course](https://www.youtube.com/watch?v=IlKaB1etrik)<br/>
+  A great reference for starting in Unity.
+
+- [Unity Documentation](https://docs.unity3d.com/Manual/index.html)<br/>
+  The official documentation for Unity.
+
+- [Brackeys](https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA)<br/>
+  A great YouTube channel with tons of Unity tutorials.
+
+- [Unity Learn](https://learn.unity.com/)<br/>
+  A great resource for learning Unity. It has a ton of tutorials, and is a great place to start.
+
+### Godot ("python-ish", C#)
+
+Unreal Engine is a powerful and widely-used game engine known for its stunning visual fidelity and advanced features. While Unity excels in 2D games, Unreal Engine shines in the realm of 3D games and photorealistic graphics. It offers a comprehensive set of tools for creating immersive and visually impressive experiences.
+
+Godot is a great engine as it allows for several different programming languages. They have support for C# with .NET 6. which has a lot of great
+features, and is a great language to learn. They also have support for GDScript, which is a language similar to Python. It's a great language to learn,
+and is a lot more beginner friendly than C#. It's also a great language to learn if you're interested in or already know Python, as it's very similar.
+
+- [Godot](https://godotengine.org/)<br/>
+  The official website for Godot. You can download it here.
+
+| Pros                                              | Cons                                                        |
+| ------------------------------------------------- | ----------------------------------------------------------- |
+| Free and open-source                              | Smaller community compared to some other engines            |
+| Intuitive and beginner-friendly                   | Limited number of official tutorials and resources          |
+| Node-based editor                                 | Limited third-party plugins and assets compared to Unity    |
+| Efficient 2D and 3D rendering capabilities        | Less robust in terms of high-end graphics and performance   |
+| Flexible and customizable                         | Limited built-in support for certain advanced features      |
+| Supports multiple programming languages           | Mobile export can require additional setup and optimization |
+| Active and growing community                      | Limited documentation in some areas                         |
+| Dedicated support for version control             | Less extensive platform support compared to Unity           |
+| Export to various platforms and operating systems | Less polished editor interface compared to some competitors |
+
+Here are some great resources for learning Godot:
+
+- [Godot Crash Course](https://www.youtube.com/watch?v=QftpPI5iYrY)<br/>
+  A great reference for starting in Godot.
+
+- [Godot Documentation](https://docs.godotengine.org/en/stable/index.html)<br/>
+  The official documentation for Godot.
+
+- [GDQuest](https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ)<br/>
+  A great YouTube channel with tons of Godot tutorials.
+
+### Unreal Engine (C++)
+
+Unreal Engine is a powerful and widely-used game engine known for its stunning visuals and advanced features. While Godot excels in 2D games, Unreal Engine shines in the realm of 3D games and photorealistic graphics. It offers a comprehensive set of tools for creating immersive and visually impressive experiences.
+
+One of the key strengths of Unreal Engine is its C++ support, offering flexibility and performance for more experienced developers. However, it also offers a visual scripting system called Blueprints for those who prefer a more code-free approach to programming.
+
+- [Unreal Engine](https://www.unrealengine.com/en-US/)<br/>
+  The official website for Unreal Engine. You can download it here.
+
+| Pros                                                    | Cons                                                       |
+| ------------------------------------------------------- | ---------------------------------------------------------- |
+| Stunning visuals                                        | Steeper learning curve compared to some other engines      |
+| Advanced rendering capabilities                         | Requires a more powerful hardware to run complex scenes    |
+| Robust and feature-rich development tools               | C++ programming can be challenging for beginners           |
+| Blueprint visual scripting system                       | Larger file sizes compared to some other engines           |
+| Cross-platform support                                  | Longer iteration times due to compilation of C++ code      |
+| Active and supportive community                         | More resource-intensive than some other engines            |
+| Extensive documentation and tutorials                   | Licensing fees and revenue sharing for commercial projects |
+| Real-time collaboration and version control             | Frequent compatibility issues between updates              |
+| Virtual reality (VR) and augmented reality (AR) support | More suitable for larger-scale projects with bigger teams  |
+
+Here are some great resources for learning Unreal Engine:
+
+- [Unreal Engine Crash Course](https://www.youtube.com/watch?v=ptCN4cysDig)<br/>
+  A great reference for starting in Unreal Engine.
+
+- [Unreal Engine Documentation](https://docs.unrealengine.com)<br/>
+  The official documentation for Unreal Engine.
+
+- [Unreal Engine Full Course](https://www.youtube.com/watch?v=bT8aSTkpkDY)<br/>
+  A full comprehensive course on Unreal Engine.
+
+### GameMaker Studio (GML)
+
+GameMaker Studio is a popular game engine for making 2D games. It's used by professionals and hobbyists alike, and is a great engine to learn. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game. It's free to use to a point, but you'll need to pay to export to certain platforms. It has a great community behind it, and is a great engine to learn.
+
+GameMaker has both a visual scripting system, and a programming language called GML. GML is very similar to JavaScript, and is a great language to learn if you're interested in or already know JavaScript. This is VP Matthew's engine of choice, and he's spent a lot of time tweaking it to his liking. He's sometimes happy to help out. Sometimes.
+
+- [GameMaker Studio](https://www.yoyogames.com/en/gamemaker)<br/>
+  The official website for GameMaker Studio. You can download it here.
+
+| Pros                                        | Cons                                                        |
+| ------------------------------------------- | ----------------------------------------------------------- |
+| Beginner-friendly                           | Limited 3D capabilities compared to some other engines      |
+| Drag-and-drop visual scripting              | Performance limitations for complex and demanding games     |
+| Powerful and flexible coding language (GML) | Limited platform support compared to some other engines     |
+| Rapid prototyping                           | Limited built-in support for certain advanced features      |
+| Active and supportive community             | 2D-focused engine, may not be ideal for 3D game development |
+| Extensive documentation and tutorials       | Requires a paid license for advanced features and exports   |
+| Asset Marketplace for additional resources  | Limited built-in version control and collaboration features |
+| Multi-platform support                      | Exporting to certain platforms may require additional setup |
+| Seamless integration of audio and graphics  | Less robust in terms of high-end graphics and effects       |
+
+Here are some great resources for learning GameMaker Studio:
+
+- [GameMaker Studio Crash Course](https://www.youtube.com/watch?v=nBCDzE9MDbk)<br/>
+  A great reference for starting in GameMaker Studio.
+
+- [GameMaker Studio Documentation](https://docs2.yoyogames.com/)<br/>
+  The official documentation for GameMaker Studio.
+
+- [HeartBeast](https://www.youtube.com/channel/UCrHQNOyU1q6BFEfkNq2CYMA)<br/>
+  A great YouTube channel with tons of GameMaker Studio tutorials.
+
+- [GameMaker Studio Full Course](https://www.youtube.com/playlist?list=PLUEcBPiXnlBwNjhLWzJAQJ78deyXRIIZl)<br/>
+  A full comprehensive course on GameMaker Studio.
+
+### MonoGame (C#)
+
+MonoGame is the open-source implementation of Microsoft's XNA framework, which is now properly obsolete. It's a great engine for 2D games, and has the capabilities to handle 3D games as well. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game. It's also totally free and open source. It's a great engine to learn if you're already familiar with C# and have strong object oriented programming skills.
+
+MonoGame is not an engine, but a framework. This means a lot of the heavy lifting is done for you, but you'll need to do a lot of the work yourself. In a way, you'll be building the actual engine yourself.
+It's a great way to learn how game engines work, and is a great way to learn how to make games from scratch. Matthew's done a fair bit of work in MonoGame, and is sometimes happy to help out. Sometimes.
+
+- [MonoGame](https://www.monogame.net/)<br/>
+  The official website for MonoGame. You can download it here.
+
+| Pros                                       | Cons                                                         |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| Free and open-source                       | Steeper learning curve for beginners                         |
+| Cross-platform development capabilities    | Requires knowledge of programming languages (C#)             |
+| Direct access to low-level APIs            | Less visual scripting options compared to some other engines |
+| High performance and efficiency            | Limited built-in tools and features                          |
+| Flexible and customizable                  | Documentation can be sparse or outdated in certain areas     |
+| Robust community and active forums         | Less extensive asset marketplace compared to other engines   |
+| Suitable for 2D and 3D game development    | Development workflow can be more manual and hands-on         |
+| Compatible with existing XNA projects      | Less beginner-friendly compared to some other engines        |
+| Integration with popular development tools | Limited support for certain advanced graphics techniques     |
+
+Here are some great resources for learning MonoGame:
+
+- [MonoGame Get Started](https://www.youtube.com/watch?v=sPH-sNTSrhw)<br/>
+  A great reference for starting in MonoGame.
+
+- [MonoGame Documentation](https://docs.monogame.net/)<br/>
+  The official documentation for MonoGame.
+
+- [MonoGame Full Course](https://www.youtube.com/playlist?list=PLZ6ofHM1rvK8lQSoKX1USZstM-ZXikFHp)<br/>
+  A _really_ full comprehensive course on MonoGame.
+
+### PyGame (Python)
+
+If you're intimidated by C# or C++, PyGame is a great alternative. It's a great framework for 2D games, and has the capabilities to handle 3D games as well. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game. It's also totally free and open source. It's a great framework to learn if you're already familiar with Python and have strong object oriented programming skills.
+
+Just like MonoGame, PyGame isn't an engine, but a framework. This means a lot of the heavy lifting is done for you, but you'll need to do a lot of the work yourself. You won't be goven tools like a level editor or a sprite editor, so you'll need to either implement these yourself, or use third party tools.
+
+- [PyGame](https://www.pygame.org/news)<br/>
+  The official website for PyGame. You can download it here.
+
+| Pros                                    | Cons                                                          |
+| --------------------------------------- | ------------------------------------------------------------- |
+| Beginner-friendly                       | Limited built-in features and tools compared to other engines |
+| Easy to learn and use                   | Performance limitations for complex and demanding games       |
+| Python programming language             | Limited platform support compared to some other engines       |
+| Lightweight and efficient               | Lack of built-in support for advanced graphics techniques     |
+| Extensive documentation and tutorials   | Limited visual scripting options                              |
+| Active community and resources          | Lack of a dedicated integrated development environment (IDE)  |
+| Cross-platform support                  | May require additional libraries for specific functionalities |
+| Open-source and free                    | 2D-focused engine, may not be ideal for 3D game development   |
+| Integration with other Python libraries | Less suited for large-scale and complex game projects         |
+
+Here are some great resources for learning PyGame:
+
+- [PyGame Crash Course](https://www.youtube.com/watch?v=FfWpgLFMI7w)<br/>
+  A great reference for starting in PyGame.
+
+- [PyGame Documentation](https://www.pygame.org/docs/)<br/>
+  The official documentation for PyGame. It's so ugly, we're sorry.
+
+- [PyGame Full Course](https://www.youtube.com/watch?v=Q-__8Xw9KTM)<br/>
+  A full comprehensive course on PyGame.
+
+### Extra Tools and Resources
+
+There are plenty of other great frameworks and engines out there. A great trick is to look into what your favourite games were made in, and see if you can find the engine they used. Here are some of the best:
+
+- [Construct](https://www.construct.net/en)<br/>
+  A great engine for quick 2D games. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game.
+
+- [RPG Maker](https://www.rpgmakerweb.com/)<br/>
+  A great engine for making RPGs. It's a great engine to learn if that's a genre you're interested in. It's able to export to a ton of different platforms, and has a ton of great tools to help you make your game.
+
+- [Stencyl](https://www.stencyl.com/)<br/>
+  A great engine for Mobile Games, although reviews are mixed.
+
+- [Phaser](https://phaser.io/)<br/>
+  A great framework for 2D games with JavaScript. It's used by hobbyists, and is a great framework to learn. It's totally free and open source.
+
+- [React](https://reactjs.org/)<br/>
+  This is a web framework, but can be hackjobbed into a game if needed. Matthew did this for [Ludum Dare 53](https://ldjam.com/events/ludum-dare/53/sender-not-found), and placed 10th in mood overall. It's a great framework to learn if you're interested in web development, less so for game development.
+
+- [PICO8](https://www.lexaloffle.com/pico-8.php)<br/>
+  This is a game engine, but it's a bit different. It's a fantasy console, which means it's a game engine that's built to look like a console. It's a great engine to learn if you're interested in retro games, and is a great way to learn how to make games from scratch. It's also a great way to learn Lua, which is a... language to learn if you're interested in or already know Python.
