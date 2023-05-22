@@ -34,6 +34,12 @@ This guide was made for the Mount Royal University Game Design and Development C
   - [GameMaker Studio (GML)](#gamemaker-studio-gml)
   - [MonoGame (C#)](#monogame-c)
   - [Extra Tools and Resources](#extra-tools-and-resources-2)
+- [Extra Tools and Resources](#extra-tools-and-resources-3)
+  - [What Else Is There?](#what-else-is-there)
+  - [Books](#books)
+  - [Videos](#videos)
+    - [Game Developers Conferences](#game-developers-conferences)
+  - [Websites / Blogs](#websites--blogs)
 
 ## Game Design
 
@@ -556,3 +562,87 @@ There are plenty of other great frameworks and engines out there. A great trick 
 
 - [PICO8](https://www.lexaloffle.com/pico-8.php)<br/>
   This is a game engine, but it's a bit different. It's a fantasy console, which means it's a game engine that's built to look like a console. It's a great engine to learn if you're interested in retro games, and is a great way to learn how to make games from scratch. It's also a great way to learn Lua, which is a... language to learn if you're interested in or already know Python.
+
+## Extra Tools and Resources
+
+### What Else Is There?
+
+This is a great question! There's a lot of other things that go into game development that we haven't covered. This is just a bare bones guide to get you started. As you begin your journey into game development, there are tons of other things you'll need to learn and develop. This isn't a comprehensive list of skills and tools you need to learn, it's merely a stepping stone. Make sure you're exploring other resources, and learning other skills.
+
+Here are some extra tools, resources, guides, websites, and references that are super helpful to get you going. Make sure to do your own explorations as well, and find what works best for you. Remember, this is a journey, and you're just getting started. If you have any references you've discovered that you'd like to share, feel free to make a pull request and add them to the list!
+
+### Books
+
+Although software development books are normally a bad investment, as the world of programming is changing so rapidly, there are a few resources that go beyond just language comprehension. These books are great for learning ideas beyond just programming, and are great resources for learning how to make games.
+
+- [The Animator's Survival Kit](https://www.amazon.ca/Animators-Survival-Kit-Principles-Classical/dp/086547897X)<br/>
+  This is a Masterclass on animation, and is a great resource for learning how to animate. It's a great resource for learning how to make your game feel alive, and is a must read for any animator or artist. I really encourage you to pick a physical copy of this book up, as it's gorgeous.
+
+- [An Architectural Approach to Level Design](https://a.co/d/0D3Stnj)<br/>
+  Written by a professor at George Mason University, this book is acts as a Bible for level design. It's a phenomenal resource for everything level design, and is a must read for any level designer or video game enthusiast. There are some free PDF versions out there if you look hard enough, but I encourage you to pick up a physical copy, as it's a great book to have on your shelf.
+
+- [Spelunky](https://bossfightbooks.com/products/spelunky-by-derek-yu)<br/>
+  Written by Derek Yu, the creator of hit Roguelike game Spelunky, this game covers not just the development of Spelunky, but the culture of the indie development scene. It's a great read, and is a must read for any indie developer. It also has a phallus on the cover, which is funny.
+
+### Videos
+
+There's a wide range of indie developers out there, and a lot of them have some very informative videos on their lifestyles, development processes, and everything in between. They're a great resource for learning how to make games, the process of designing a game, and the act of developing a game to fruition.
+
+- [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw)<br/>
+  A great YouTube channel with tons of videos on game design.
+
+- [Miziziziz](https://www.youtube.com/@Miziziziz)<br/>
+  An indie Godot developer with tons of great videos on game development and design.
+
+- [Pixel Prophecy](https://www.youtube.com/@PixelProphecy)<br/>
+  A Ludum Dare veteran with a massive catalogue of documentaries detailing their developmental processes.
+
+- [aarthificial](https://www.youtube.com/@aarthificial)<br/>
+  A brilliant developer with a great series of videos on conquering difficult programming challenges.
+
+#### Game Developers Conferences
+
+I'll add in a subsection for a few of the best GDC talks I've seen. These are great resources for learning how to make games, and are a great way to learn from the best in the industry. These are usually quite dense, but are well worth the watch.
+
+- [GDC Showcase](https://www.youtube.com/@Gdconf)<br/>
+  The official YouTube channel for GDC.
+
+- [Building a Better Jump](https://www.youtube.com/watch?v=hG9SzQxaCm8)<br/>
+  A great talk on some essential math for game development, mostly targeted at platformers.
+
+- [The Untapped Potential of Roguelikes](https://www.youtube.com/watch?v=IE19Te46kYc)<br/>
+  A great talk on the potential of Roguelikes, and how their properties can be used to make great games.
+
+- [Tech Toolbox](https://www.youtube.com/watch?v=W_okgL6HJX8)<br/>
+  A series of mini-lectures on various technical tools and techniques for game development.
+
+- [The Rendering of INSIDE](https://www.youtube.com/watch?v=RdN06E6Xn9E)<br/>
+  A fascinating, low-level look at the rendering techniques used in the game INSIDE.
+
+- [Math for Game Programmers](https://www.youtube.com/watch?v=mr5xkf6zSzk)<br/>
+  A dive into the world of 1D nonlinear transformations, and how they can be used to make better games.
+
+- [The Implementation of Rewind in Braid](https://www.youtube.com/watch?v=8dinUbg2h70)<br/>
+  Jonathan Blow, the creator of Braid and of the greatest puzzle game designers of our generation, gives a talk on how he implemented the rewind mechanic in Braid.
+
+- [Applying 3D Level Design Skills to a 2D World](https://www.youtube.com/watch?v=LFsMenc5Q8I)<br/>
+  A look at how the Hyper Light Drifter team implemented 3D level design techniques to a 2D game.
+
+### Websites / Blogs
+
+Apart from the obvious ones like [Gamasutra](https://www.gamasutra.com/), [GameDev.net](https://www.gamedev.net/), and [GameDev StackExchange](https://gamedev.stackexchange.com/), there are a few other great resources out there for learning how to make games, such as developer's Twitters, blogs, and websites.
+
+- [RogueBasin](https://www.roguebasin.com/index.php/Main_Page)<br/>
+  A hub of information on Roguelike games, and a great resource for everything from level generation to turn based combat systems.
+
+- [Lost Garden](https://lostgarden.home.blog/)<br/>
+  A little trove of game design articles and essays.
+
+- [100 Rabbits](https://100r.co/)<br/>
+  A blog by two indie developers who live on a boat. They have some great articles on game development, software development, and life without a country.
+
+- [ENDESGA Twitter](https://twitter.com/endesga)<br/>
+  ENDESGA is a solo developer who's made some of the most famous indie dev color pallets out there (EDG16, EDG32).
+
+- [Lospec](https://lospec.com/)<br/>
+  A great resource for pixel art, palettes, and pixel art tutorials.
